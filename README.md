@@ -16,7 +16,7 @@ A simple Tic Tac Toe game developed in the C++ Builder environment. This applica
 4. To start a new game, simply relaunch the application.
 
 **📸 Screenshots:**  
-*Add your game screenshots here.*
+![Przechwytywanie](https://github.com/Kacper657/Tic-Tac-Toe/assets/127960359/0a4da18d-9e9e-4c2c-b01b-72749160773c)
 
 **🔍 Requirements:**
 - 🖥 Operating System: Windows
